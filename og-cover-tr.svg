@@ -12,13 +12,13 @@
   <path d="M975 378v74m-49-68c12 2 22 6 30 12m67-12c-12 2-22 6-30 12" stroke="#146B64" stroke-width="2" stroke-linecap="round"/>
   <path d="M975 247v17m-8.5-8.5h17" stroke="#AE966E" stroke-width="3" stroke-linecap="round"/>
   <circle cx="767" cy="201" r="5" fill="#146B64"/><circle cx="1129" cy="442" r="5" fill="#829AB0"/><circle cx="810" cy="478" r="4" fill="#C0A97E"/>
-  <text x="86" y="115" fill="#146B64" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">INDEPENDENT EDUCATIONAL TECHNOLOGY</text>
+  <text x="86" y="115" fill="#146B64" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">BAĞIMSIZ EĞİTİM TEKNOLOJİSİ</text>
   <text x="84" y="231" fill="#1D2625" font-family="Georgia, serif" font-size="74" letter-spacing="-3">İlimSaray</text>
-  <text x="88" y="294" fill="#1D2625" font-family="Arial, sans-serif" font-size="31" font-weight="600">AI-powered education,</text>
-  <text x="88" y="337" fill="#1D2625" font-family="Arial, sans-serif" font-size="31" font-weight="600">made practical.</text>
+  <text x="88" y="294" fill="#1D2625" font-family="Arial, sans-serif" font-size="31" font-weight="600">Yapay zekâ destekli eğitim,</text>
+  <text x="88" y="337" fill="#1D2625" font-family="Arial, sans-serif" font-size="31" font-weight="600">içerik üretimini kolaylaştırır.</text>
   <path d="M88 382h82" stroke="#146B64" stroke-width="3"/>
-  <text x="88" y="427" fill="#56635E" font-family="Arial, sans-serif" font-size="22">Meet DKAB360 — educational content automation</text>
-  <rect x="88" y="476" width="298" height="42" rx="21" fill="#E7F1EE" stroke="#C9DDD4"/>
-  <text x="109" y="503" fill="#0D4D49" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">ACTIVE DEVELOPMENT / PILOT TESTING</text>
-  <text x="88" y="576" fill="#73807A" font-family="Arial, sans-serif" font-size="17">Independent · Bootstrapped · Konya, Türkiye</text>
+  <text x="88" y="427" fill="#56635E" font-family="Arial, sans-serif" font-size="22">DKAB360 — eğitim içeriği otomasyonu</text>
+  <rect x="88" y="476" width="355" height="42" rx="21" fill="#E7F1EE" stroke="#C9DDD4"/>
+  <text x="109" y="503" fill="#0D4D49" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing=".7">AKTİF GELİŞTİRME · PİLOT TEST AŞAMASI</text>
+  <text x="88" y="576" fill="#73807A" font-family="Arial, sans-serif" font-size="17">Bağımsız · Öz kaynaklarıyla · Konya, Türkiye</text>
 </svg>
