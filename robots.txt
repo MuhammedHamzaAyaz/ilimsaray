@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ilimsaray.com/sitemap.xml
+Sitemap: https://www.ilimsaray.com/sitemap.xml
